@@ -8,5 +8,5 @@ Zmianę należy zaproponować poprzez propozycję zmiany niniejszego pliku (pull
 Należy wstawić linijkę, zawierającą link, jego bibliograficzny opis oraz swoje imię i nazwisko.
 
 np. [Strona przedmiotu PBL na GitHubie](https://github.com/MRostanski/PBL_3/) (Maciej Rostański)
-
+[Problem-based learning - University of Wollongong - Fred Paas](http://ro.uow.edu.au/cgi/viewcontent.cgi?article=2551&context=edupapers) (Marcin Rodko)
 
