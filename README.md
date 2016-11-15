@@ -9,4 +9,6 @@ Należy wstawić linijkę, zawierającą link, jego bibliograficzny opis oraz sw
 
 np. [Strona przedmiotu PBL na GitHubie](https://github.com/MRostanski/PBL_3/) (Maciej Rostański)
 
+[Problem-Based Learning - Northern Illinois University](http://www.niu.edu/facdev/_pdf/guide/strategies/problem_based_learning.pdf) (Marcin Strzemiński)
+
 
