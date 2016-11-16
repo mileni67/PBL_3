@@ -7,7 +7,7 @@ Zmianę należy zaproponować poprzez propozycję zmiany niniejszego pliku (pull
 ## Sposób realizacji
 Należy wstawić linijkę, zawierającą link, jego bibliograficzny opis oraz swoje imię i nazwisko.
 
-np. [Strona przedmiotu PBL na GitHubie](https://github.com/MRostanski/PBL_3/) (Maciej Rostański)
+np. [materialy dotyczajace PBL ](https://sites.google.com/site/nauczanieproblemowe/) (Kateryna Vasylenko)
 
 [Project Based E-learning - nowy model e-kształcenia - Piotr Kopciał](http://www.e-mentor.edu.pl/artykul/index/numer/35/id/756) (Marcin Jachymczyk)
 
