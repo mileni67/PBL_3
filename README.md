@@ -11,6 +11,8 @@ Należy wstawić linijkę, zawierającą link, jego bibliograficzny opis oraz sw
 
 [Strona przedmiotu PBL na McMaster](http://chemeng.mcmaster.ca/problem-based-learning) (Maksym Berko)
 
+[Problem-Based Learning - Northern Illinois University](http://www.niu.edu/facdev/_pdf/guide/strategies/problem_based_learning.pdf) (Marcin Strzemiński)
+
 [Project Based E-learning - nowy model e-kształcenia - Piotr Kopciał](http://www.e-mentor.edu.pl/artykul/index/numer/35/id/756) (Marcin Jachymczyk)
 
 [Problem based Learning- Forum Akademickie] (https://forumakademickie.pl/fa/2012/07-08/problem-based-learning/) (Dawid Stawski)
