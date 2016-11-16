@@ -8,6 +8,7 @@ Zmianę należy zaproponować poprzez propozycję zmiany niniejszego pliku (pull
 Należy wstawić linijkę, zawierającą link, jego bibliograficzny opis oraz swoje imię i nazwisko.
 
 np. [Strona przedmiotu PBL na GitHubie](https://github.com/MRostanski/PBL_3/) (Maciej Rostański)
+
 http://www.e-mentor.edu.pl/artykul/index/numer/35/id/756 Oleksandr Sokoliuk
 
 [metoda PBL ]http://www.studygs.net/pbl.htm (kinga bik)
