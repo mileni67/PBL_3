@@ -14,3 +14,5 @@ np. [Strona przedmiotu PBL na GitHubie](https://github.com/MRostanski/PBL_3/) (M
 http://www.e-mentor.edu.pl/artykul/index/numer/35/id/756 Oleksandr Sokoliuk
 
 [metoda PBL ]http://www.studygs.net/pbl.htm (kinga bik)
+
+http://www.studygs.net/pbl.htm ( Klaudia Stradomska )
