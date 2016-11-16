@@ -11,6 +11,10 @@ Należy wstawić linijkę, zawierającą link, jego bibliograficzny opis oraz sw
 
 [materialy dotyczace PBL ](http://www.praeha-pbl.com/pl/pbl.html) (Illia Panashchenko)
 
+Problem Based Learning (PBL) using minimal guided instruction is used as an educational strategy across a broad variety of disciplines in the tertiary sector.
+
+(https://www.researchgate.net/publication/40022647_Problem_Based_Learning_PBL_a_conundrum) (Znajduje się tu praca naukowa w pdf) (Major Damian)
+
 [Strona przedmiotu PBL na McMaster](http://chemeng.mcmaster.ca/problem-based-learning) (Maksym Berko)
 
 [Problem-based learning - University of Wollongong - Fred Paas](http://ro.uow.edu.au/cgi/viewcontent.cgi?article=2551&context=edupapers) (Marcin Rodko)
