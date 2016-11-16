@@ -7,7 +7,9 @@ Zmianę należy zaproponować poprzez propozycję zmiany niniejszego pliku (pull
 ## Sposób realizacji
 Należy wstawić linijkę, zawierającą link, jego bibliograficzny opis oraz swoje imię i nazwisko.
 
-np. [materialy dotyczajace PBL ](https://sites.google.com/site/nauczanieproblemowe/) (Kateryna Vasylenko)
+[materialy dotyczace PBL ](https://sites.google.com/site/nauczanieproblemowe/) (Kateryna Vasylenko)
+
+[Strona przedmiotu PBL na McMaster](http://chemeng.mcmaster.ca/problem-based-learning) (Maksym Berko)
 
 [Project Based E-learning - nowy model e-kształcenia - Piotr Kopciał](http://www.e-mentor.edu.pl/artykul/index/numer/35/id/756) (Marcin Jachymczyk)
 
