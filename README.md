@@ -26,3 +26,5 @@ http://www.studygs.net/pbl.htm ( Klaudia Stradomska )
 http://web.stanford.edu/dept/CTL/cgi-bin/docs/newsletter/problem_based_learning.pdf (Michał Koterwa)
 
 [materiały dotyczące Problem Based Learning]https://www.flinders.edu.au/teaching/quality/teaching-methods/problem-based-learning.cfm (Michał Cichoń)
+
+[Materiały na temat problemu based-learning] http://kanagawa.lti.cs.cmu.edu/olcts09/sites/default/files/Hmelo-Silver_2004.pdf (Aleksander Tutaj)
