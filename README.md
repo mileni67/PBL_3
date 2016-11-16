@@ -10,3 +10,4 @@ Należy wstawić linijkę, zawierającą link, jego bibliograficzny opis oraz sw
 np. [Strona przedmiotu PBL na GitHubie](https://github.com/MRostanski/PBL_3/) (Maciej Rostański)
 
 
+[metoda PBL ]http://www.studygs.net/pbl.htm (kinga bik)
