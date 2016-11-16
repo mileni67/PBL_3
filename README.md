@@ -4,9 +4,8 @@
 Należy zaproponować odnośnik do jakiegoś materiału, który dotyczy nauczania poprzez Problem Based Learning, lub może wzbogacić ten przedmiot.
 Zmianę należy zaproponować poprzez propozycję zmiany niniejszego pliku (pull request)
 
-## Sposób realizacji
-Należy wstawić linijkę, zawierającą link, jego bibliograficzny opis oraz swoje imię i nazwisko.
+Problem Based Learning (PBL) using minimal guided instruction is used as an educational strategy 
+across a broad variety of disciplines in the tertiary sector.
 
-np. [Strona przedmiotu PBL na GitHubie](https://github.com/MRostanski/PBL_3/) (Maciej Rostański)
-
+(https://www.researchgate.net/publication/40022647_Problem_Based_Learning_PBL_a_conundrum) (Znajduję się tu praca naukowa w pdf) (Major Damian)
 
