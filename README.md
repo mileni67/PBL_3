@@ -18,3 +18,5 @@ http://www.e-mentor.edu.pl/artykul/index/numer/35/id/756 Oleksandr Sokoliuk
 http://www.studygs.net/pbl.htm ( Klaudia Stradomska )
 
 http://web.stanford.edu/dept/CTL/cgi-bin/docs/newsletter/problem_based_learning.pdf (Michał Koterwa)
+
+[materiały dotyczące Problem Based Learning]https://www.flinders.edu.au/teaching/quality/teaching-methods/problem-based-learning.cfm (Michał Cichoń)
