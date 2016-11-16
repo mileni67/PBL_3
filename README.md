@@ -9,6 +9,8 @@ Należy wstawić linijkę, zawierającą link, jego bibliograficzny opis oraz sw
 
 [materialy dotyczace PBL ](https://sites.google.com/site/nauczanieproblemowe/) (Kateryna Vasylenko)
 
+[materialy dotyczace PBL ](http://www.praeha-pbl.com/pl/pbl.html) (Illia Panashchenko)
+
 [Strona przedmiotu PBL na McMaster](http://chemeng.mcmaster.ca/problem-based-learning) (Maksym Berko)
 
 [Problem-based learning - University of Wollongong - Fred Paas](http://ro.uow.edu.au/cgi/viewcontent.cgi?article=2551&context=edupapers) (Marcin Rodko)
