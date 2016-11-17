@@ -31,7 +31,7 @@ Problem Based Learning (PBL) using minimal guided instruction is used as an educ
 
 http://www.e-mentor.edu.pl/artykul/index/numer/35/id/756 Oleksandr Sokoliuk
 
-[metoda PBL ]http://www.studygs.net/pbl.htm (kinga bik)
+[metoda PBL](http://www.studygs.net/pbl.htm) (Kinga Bik)
 
 http://www.studygs.net/pbl.htm ( Klaudia Stradomska )
 
