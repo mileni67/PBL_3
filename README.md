@@ -42,3 +42,5 @@ http://web.stanford.edu/dept/CTL/cgi-bin/docs/newsletter/problem_based_learning.
 [Materiały na temat problemu based-learning] http://kanagawa.lti.cs.cmu.edu/olcts09/sites/default/files/Hmelo-Silver_2004.pdf (Aleksander Tutaj)
 
 [Strona na temat Problem Based Learning] https://www.bie.org/about/what_pbl (Bartłomiej Drąg)
+
+Problem Based Learning  http://www.ksiegarnia.difin.pl/imgs_upload/wstep-do-psychologii.pdf (Bohdan Penchukov)
