@@ -9,6 +9,8 @@ Należy wstawić linijkę, zawierającą link, jego bibliograficzny opis oraz sw
 
 [materialy dotyczace PBL ](https://sites.google.com/site/nauczanieproblemowe/) (Kateryna Vasylenko)
 
+[Strona Dotycząca PBL](https://www.chatham.edu/pt/pbl.cfm) (Artemii Berko)
+
 [materialy dotyczace PBL ](http://www.praeha-pbl.com/pl/pbl.html) (Illia Panashchenko)
 
 Problem Based Learning (PBL) using minimal guided instruction is used as an educational strategy across a broad variety of disciplines in the tertiary sector.
