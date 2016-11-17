@@ -7,6 +7,5 @@ Zmianę należy zaproponować poprzez propozycję zmiany niniejszego pliku (pull
 ## Sposób realizacji
 Należy wstawić linijkę, zawierającą link, jego bibliograficzny opis oraz swoje imię i nazwisko.
 
-np. [Strona przedmiotu PBL na GitHubie](https://github.com/MRostanski/PBL_3/) (Maciej Rostański)
-
+[Definicja Problem Based Learning, historia wprowadzenia i rozwoju PBL, skladniki i cechy charakteryzujące PBL - Diana Dawidziuk](https://prezi.com/nlms1gwh27lw/problem-based-learning-/) (Marharyta Tarasevych)
 
