@@ -48,7 +48,8 @@ http://web.stanford.edu/dept/CTL/cgi-bin/docs/newsletter/problem_based_learning.
 
 Problem Based Learning  http://www.ksiegarnia.difin.pl/imgs_upload/wstep-do-psychologii.pdf (Bohdan Penchukov)
 
+[A taxonomy of problem based learning](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2923.1986.tb01386.x/full) (Dmytro Ponomarenko)
+
 [Strona na temat Project Based Learning] (http://www.e-mentor.edu.pl/artykul/index/numer/35/id/756) (Dominika Gutowska)
 
 [Definicja Problem Based Learning, historia wprowadzenia i rozwoju PBL, skladniki i cechy charakteryzujące PBL - Diana Dawidziuk](https://prezi.com/nlms1gwh27lw/problem-based-learning-/) (Marharyta Tarasevych)
-
