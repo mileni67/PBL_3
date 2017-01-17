@@ -9,6 +9,9 @@ Należy wstawić linijkę, zawierającą link, jego bibliograficzny opis oraz sw
 
 [materialy dotyczace PBL ](https://sites.google.com/site/nauczanieproblemowe/) (Kateryna Vasylenko)
 
+[Materiały PBL](http://www.studygs.net/pbl.htm) (Yehor Ihnatenko)
+
+
 [Strona Dotycząca PBL](https://www.chatham.edu/pt/pbl.cfm) (Artemii Berko)
 
 [materialy dotyczace PBL ](http://www.praeha-pbl.com/pl/pbl.html) (Illia Panashchenko)
