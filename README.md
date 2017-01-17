@@ -7,6 +7,9 @@ Zmianę należy zaproponować poprzez propozycję zmiany niniejszego pliku (pull
 ## Sposób realizacji
 Należy wstawić linijkę, zawierającą link, jego bibliograficzny opis oraz swoje imię i nazwisko.
 
+
+[Problem Based Learning (PBL)](https://www.flinders.edu.au/teaching/quality/teaching-methods/problem-based-learning.cfm) (Andrii Chaban)
+
 [materialy dotyczace PBL ](https://sites.google.com/site/nauczanieproblemowe/) (Kateryna Vasylenko)
 
 [Materiały PBL](http://www.studygs.net/pbl.htm) (Yehor Ihnatenko)
